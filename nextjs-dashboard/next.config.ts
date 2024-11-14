@@ -5,8 +5,5 @@ const nextConfig: NextConfig = {
     ppr: 'incremental'
   }
 };
-module.exports = {
-  basePath: 'nextjs-dashboard'
-}
 
 export default nextConfig;
